@@ -6,6 +6,11 @@ A Java console application that evaluates password strength using **regular expr
 
 This project analyzes a user-entered password against common security rules and classifies it as **Weak**, **Medium**, or **Strong**. It also demonstrates how passwords should be securely stored using **salted SHA-256 hashing** instead of plain text.
 
+## 📷 Demo
+
+![Password Strength Checker](images/password-checker-demo1.png)
+![Password Strength Checker](images/password-checker-demo2.png)
+
 ## ✨ Features
 
 - Evaluate password strength in real time
